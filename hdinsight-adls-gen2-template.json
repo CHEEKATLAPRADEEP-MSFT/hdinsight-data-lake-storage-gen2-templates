@@ -92,7 +92,7 @@
                         {
                             "name": "<STORAGEACCOUNTNAME>.dfs.core.windows.net",
                             "isDefault": true,
-                            "fileSystem": "",
+                            "fileSystem": "<FILESYSTEMNAME>",
                             "resourceId": "/subscriptions/<SUBSCRIPTION_ID>/resourceGroups/<RESOURCEGROUPNAME>/providers/Microsoft.Storage/storageAccounts/<STORAGEACCOUNTNAME>",
                             "msiResourceId": "/subscriptions/<SUBSCRIPTION_ID>/resourcegroups/<RESOURCEGROUPNAME>/providers/Microsoft.ManagedIdentity/userAssignedIdentities/<MANAGEDIDENTITYNAME>"
                         }
