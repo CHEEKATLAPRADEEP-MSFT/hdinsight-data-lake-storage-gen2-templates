@@ -23,6 +23,6 @@ Replace occurences of the following values with the correct information for your
 [Read the tutorial](https://docs.microsoft.com/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2).
 
 
-<a href="https%3A%2F%2Fraw.githubusercontent.com%2FCHEEKATLAPRADEEP-MSFT%2Fhdinsight-data-lake-storage-gen2-templates%2Fmaster%2Fhdinsight-adls-gen2-template.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FCHEEKATLAPRADEEP-MSFT%2Fhdinsight-data-lake-storage-gen2-templates%2Fmaster%2Fhdinsight-adls-gen2-template.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
